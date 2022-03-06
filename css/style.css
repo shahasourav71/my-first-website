@@ -1,0 +1,39 @@
+/* module 2 class 02 */
+h1{
+    color: crimson;
+    background-color: rgb(217, 252, 21);
+    height: 50px;
+    width: 400px;
+}
+img{
+    width: 80%;
+}
+.fr{
+    color: red;
+    font-size: 19px;
+    font-weight: 800;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+#sw-color{
+    color: rgb(71, 71, 56);
+    font-weight: 600;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.card{
+    color: brown;
+    border: 2px solid crimson;
+    border-radius: 10px;
+    width: 200px;
+    text-align: center;
+    margin: 20px;
+    float: left;
+}
+.card>img{
+    width: 150px;
+    height: 200px;
+    padding-top: 10px;
+}
+.card>h2{
+    background-color: darkgray;
+}
